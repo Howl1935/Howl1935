@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Howl1935
-- 👀 I’m currently interested in blockchain technology, full stack development such as MERN, and devOps
+- 👀 I’m currently interested in blockchain technology, full stack development such as MERN, and devOps.  I am also currently learning AWS, and graphql.
 - 🌱 I’m currently learning the MERN stack and solidity for smart contracts.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me thawley@calpoly.edu
